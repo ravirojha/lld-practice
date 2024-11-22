@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LogginFramework/LogginFramework.iml" filepath="$PROJECT_DIR$/../LogginFramework/LogginFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/Parking lot.iml" filepath="$PROJECT_DIR$/Parking lot.iml" />
       <module fileurl="file://$PROJECT_DIR$/../StackOverflow/StackOverflow.iml" filepath="$PROJECT_DIR$/../StackOverflow/StackOverflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TaskManagement/TaskManagement.iml" filepath="$PROJECT_DIR$/../TaskManagement/TaskManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Vending Machine/Vending Machine.iml" filepath="$PROJECT_DIR$/../Vending Machine/Vending Machine.iml" />
     </modules>
   </component>
